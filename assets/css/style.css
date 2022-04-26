@@ -1,0 +1,27 @@
+.main{
+    margin: 0 auto;
+}
+
+.single-card{
+    width: 18rem;
+    margin: auto;
+}
+
+.single-card-img{
+    width: 75px;
+    margin: 10px auto;
+}
+
+.single-card-text{
+    margin: 5px ;
+}
+
+.price-up{
+    color: chartreuse;
+    font-weight: 700;
+}
+
+.price-down{
+    color: crimson;
+    font-weight: 700;
+}
